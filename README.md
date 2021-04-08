@@ -2,7 +2,7 @@
 
 # Crestron CTI C Sharp for Crestron Examples 
 
- **NOTE:** These are simplified example program snippets for students to use to learn concepts from.  They are not 100% complete in regards to error testing and error recovery.  It is left up to the students to complete the work on their own when they progress to that level. 
+ **NOTE:** These are simplified example program snippets for students to use to learn concepts from.  They are not 100% complete in regards to error testing and error recovery.  It is left up to the students to complete the work on their own when they progress to that level. Videos that go with this example code are available on crestron.com in the CTI portal.
 
 ## License
 
