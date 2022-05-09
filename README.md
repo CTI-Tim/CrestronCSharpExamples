@@ -1,8 +1,10 @@
-﻿<img src="https://img.shields.io/badge/Language-C Sharp-blue"> <img src="https://img.shields.io/badge/Platform-Crestron 4 series-blue"> <img src="https://img.shields.io/badge/CTI-Video Series-blue">  <img src="https://img.shields.io/badge/Use-Educational-green"> <img src="https://img.shields.io/badge/Copyright-Crestron-blue"> <img src="https://img.shields.io/badge/License-Restricted-orange">
+<img src="https://img.shields.io/badge/Language-C Sharp-blue"> <img src="https://img.shields.io/badge/Platform-Crestron 4 series-blue"> <img src="https://img.shields.io/badge/CTI-Examples-blue">  <img src="https://img.shields.io/badge/Use-Educational-green"> <img src="https://img.shields.io/badge/Copyright-Crestron-blue"> <img src="https://img.shields.io/badge/License-Restricted-orange"><img src="https://img.shields.io/badge/Support-NONE-red">
 
-# Crestron CTI C Sharp for Crestron Examples 
+# Crestron CTI - C Sharp for Crestron Examples 
 
  **NOTE:** These are simplified example program snippets for students to use to learn concepts from.  They are not 100% complete in regards to error testing and error recovery.  It is left up to the students to complete the work on their own when they progress to that level. Videos that go with this example code are available on crestron.com in the CTI portal.
+
+Some Examples do not have a corresponding video.  These are presented as learning examples and are for the student to use as a reference.   None of the code in this repository has any warranty or any support available.    DO NOT CALL Crestron Tech support for support with any of the code found here.   This is Unsupported code for learning  use only.
 
 ## License
 
