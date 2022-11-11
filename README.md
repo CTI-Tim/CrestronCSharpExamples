@@ -4,7 +4,11 @@
 
  **NOTE:** These are simplified example program snippets for students to use to learn concepts from.  They are not 100% complete in regards to error testing and error recovery.  It is left up to the students to complete the work on their own when they progress to that level. Videos that go with this example code are available on crestron.com in the CTI portal.
 
-Some Examples do not have a corresponding video.  These are presented as learning examples and are for the student to use as a reference.   None of the code in this repository has any warranty or any support available.    DO NOT CALL Crestron Tech support for support with any of the code found here.   This is Unsupported code for learning  use only.
+Some Examples do not have a corresponding video.  These are presented as learning examples and are for the student to use as a reference.   None of the code in this repository has any warranty or any support available.    <u>**DO NOT CALL**</u> Crestron Tech support for support with any of the code found here.   This is Unsupported code for learning  use only.
+
+**NOTE**: Some of the code is older examples for VS2008Pro from 3 series and some is for VS2019+ for 4 series Be aware of this if opening the project directly.     
+
+
 
 ## License
 
